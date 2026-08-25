@@ -64,3 +64,13 @@ title('circular convolution');
 ## RESULT:
 Thus, the circular convolution of the two given sequences were performed and its result was verified.
 
+
+## RESULT:
+Thus, the circular convolution of the two given sequences were performed and its result was verified.
+
+## RESULT:
+Thus, the circular convolution of the two given sequences were performed and its result was verified.
+
+## RESULT:
+Thus, the circular convolution of the two given sequences were performed and its result was verified.
+
